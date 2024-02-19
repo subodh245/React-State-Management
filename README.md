@@ -7,3 +7,5 @@ THING'S I LEARN
 <img width="1280" alt="useReducer" src="https://github.com/subodh245/React-State-Management/assets/118099441/fd952413-9b8d-43c6-ac22-065b9a5dbe78">
 
 3) useMemo: useMemo can be used when the data is big and we have to change somthing within that and we can use useMemo when the calulations are bit more complex
+<img width="1280" alt="useMemo" src="https://github.com/subodh245/React-State-Management/assets/118099441/3a521891-9f10-43c9-a2f4-2683f5853063">
+
