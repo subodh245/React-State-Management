@@ -5,3 +5,5 @@ THING'S I LEARN
 
 2)In useReducer i learn that useReducer is alternative of useState hook and we can use this when the logic is more complex
 <img width="1280" alt="useReducer" src="https://github.com/subodh245/React-State-Management/assets/118099441/fd952413-9b8d-43c6-ac22-065b9a5dbe78">
+
+3) useMemo: useMemo can be used when the data is big and we have to change somthing within that and we can use useMemo when the calulations are bit more complex
