@@ -13,8 +13,10 @@ THING'S I LEARN
 4) useEffect: I have used useEffect to make api request , what use effect allow us to do only do this code for once otherwise it will stuck into infinite loop
 <img width="1280" alt="Screenshot 2024-02-19 094510" src="https://github.com/subodh245/React-State-Management/assets/118099441/ac22ad4b-3fad-493e-8998-8ad566daff06">
 
-useRef allow us to avoid unnecessary re renders in ui it is alternative of useState
+5) useRef: useRef allow us to avoid unnecessary re renders in ui it is alternative of useState
 <img width="1280" alt="Screenshot 2024-02-20 131240" src="https://github.com/subodh245/React-State-Management/assets/118099441/421c8e4a-5f3a-42ac-ba7c-51fb2b6d0feb">
+
+6) i have made custom hook named as usePokemon() and i have used useEffect for fetching pokemon.json file and instead of doing props drilling i have used context and i learn one new thing that is by '!' we can tell typescript that this function will be always undifined
 
 
 
