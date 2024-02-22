@@ -28,5 +28,10 @@ THING'S I LEARN
 9) I have made the same search function using zustand
 <img width="1280" alt="Screenshot 2024-02-22 073933" src="https://github.com/subodh245/React-State-Management/assets/118099441/8150ac1b-7706-4b5c-9a84-691299c34f58">
 
+8) I have made the same app using valtio
+<img width="1280" alt="Screenshot 2024-02-23 045922" src="https://github.com/subodh245/React-State-Management/assets/118099441/5e763ece-9d63-419a-a979-72fde103ca29">
+
+ 
+
 
 
