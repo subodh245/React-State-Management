@@ -18,5 +18,6 @@ THING'S I LEARN
 
 6) i have made custom hook named as usePokemon() and i have used useEffect for fetching pokemon.json file and instead of doing props drilling i have used context and i learn one new thing that is by '!' we can tell typescript that this function will be always undifined
 
+7) I have learn about useCall back context and custom hooks and I have made pokemon app by using this functions and one thing i learn is we should always use usecall back when we are useing costum hook and for search option I have used useMemo for searching pokemon
 
 
