@@ -22,5 +22,5 @@ THING'S I LEARN
 <img width="1280" alt="pokemon app" src="https://github.com/subodh245/React-State-Management/assets/118099441/326d1104-47e8-49fd-b75f-8a11ac9ab466">
 <img width="640" alt="search function of pokemon app" src="https://github.com/subodh245/React-State-Management/assets/118099441/75505352-a46c-40a7-93af-8a5432d1be3f">
 
-
+8) I have made an multipage app where onclick it will show details of the pokemon and insted of useing useReduccers, useEffect I learn to  use react jquery to manage the data in "indirect pokemon"   
 
