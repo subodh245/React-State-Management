@@ -25,7 +25,8 @@ const pokemonApi = createApi({
     }),
   }),
 });
-const pokemonApi.endpoints.getPokemon.useQuery;
+
+export const usePokemonQuery = pokemonApi.endpoints.getPokemon.useQuery;
 
 const searchSlice = createSlice({
   name: "search",
@@ -44,7 +45,10 @@ export const { setSearch } = searchSlice.actions;
 export const store = configureStore({
   reducer: {
     search: searchSlice.reducer,
+    pokemonApi: pokemonApi.reducer,
   },
 });
 
 export type RootState = ReturnType<typeof store.getState>;
+
+export const selectSearch = (state: RootState) => state.search.search;
